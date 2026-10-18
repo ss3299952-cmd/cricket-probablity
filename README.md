@@ -1,1 +1,1 @@
-# cricket-probablity
+# cricket-probability
